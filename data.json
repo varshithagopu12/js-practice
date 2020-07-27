@@ -1,0 +1,55 @@
+{
+	"profile":{
+		"basics":{
+			"name":"varshitha gopu",
+			"role":"btech student",
+			"email":"varshitha_gopu@srmap.edu.in",
+			"mobile":"+91 7995205076",
+			"address":"Amaravathi, AndhraPradesh"
+		},
+		"details":{
+			"summary":[
+				"Completed bachelors degree in the branch of computer science and engineering (CSE)",
+				"Having knowledge on Front-end technologies like HTML5,CSS3,JavaScript.",
+				"Having practical exposure on back-end technologies like node and mysql",
+				"Built projects using frameworks like React, Bootstrap and Express",
+				"Focussed on programming languages like Java, C and C++"
+			],
+			"education":[
+				{
+					"degree":"Computer science & Engineering",
+					"institute":"SRM university (2019 - 2023)",
+					"percentage":"79%"
+				},
+				{
+					"degree":"Intermediate (M.P.C)",
+					"institute":"Sri chaitanya junior college",
+					"percentage":"93%"
+				},
+				{
+					"degree":"CBSE",
+					"institute":"Bhavans school",
+					"percentage":"92%"
+				}
+			],
+			"skills":[
+				{
+					"type":"Programming Languages",
+					"values":["C","C++","Java"]
+				},
+				{
+					"type":"Web Technologies",
+					"values":["HTML","CSS","JavaScript"]
+				},
+				{
+					"type":"Frameworks",
+					"values":["Bootstrap","Reactjs","Express"]
+				},
+				{
+					"type":"Databases",
+					"values":["Oracle","mysql","sqLite","mongo"]
+				}
+			]
+		}
+	}
+}
